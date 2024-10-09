@@ -71,3 +71,51 @@ li{
     font-size: 20px;
     font-weight: bold;
 }
+.p1{
+    color:gray;
+}
+.grid{
+    display: grid;
+    gap: 10px;
+    background-color:whitesmoke;
+    padding: 20px;
+    border-radius: 55px;
+}
+.grid1{
+    display: grid;
+    gap: 10px;
+    background-color:whitesmoke;
+    padding: 20px;
+    border-radius: 55px;
+    margin-top: 25px;
+}
+.grid2{
+    display: grid;
+    gap: 10px;
+    background-color:whitesmoke;
+    padding: 20px;
+    border-radius: 55px;
+    margin-top: 25px;
+}
+.grid3{
+    display: grid;
+    gap: 10px;
+    background-color:whitesmoke;
+    padding: 20px;
+    border-radius: 55px;
+    margin-top: 25px;
+}
+div{
+    text-align: center;
+    font-size: 20px;
+   
+   
+}
+.grid02,.grid03,.grid04,.grid05{
+    font-family: monospace;
+    color: rgb(133, 59, 7);
+}
+.grid02:hover,.grid03:hover,.grid04:hover,.grid05:hover{
+    color: rgb(12, 11, 11);
+    
+}
