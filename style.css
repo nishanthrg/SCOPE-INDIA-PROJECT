@@ -119,3 +119,15 @@ div{
     color: rgb(12, 11, 11);
     
 }
+footer{
+    background-color:darkblue;
+    padding-bottom: 10px;
+    background-image: url(iso_iaflogo.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    padding-right: 20px;
+    ;
+    
+    
+}
+
